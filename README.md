@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Fawwaz 
 
-<!--
-**Dynamic6448/Dynamic6448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year computer science student at Texas A&M University, passionate about all things technology and aviation.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✈ Building the [Digital Flight Dynamics A350X](https://youtube.com/@dfdsim)
+
+Check out my [portfolio](https://dynamic6448.github.io) for more!
+
+## 💻 Tech Stack:
+
+- **Languages:** C/C++, Rust, C#, Java, Python, JavaScript/TypeScript, HTML/CSS
+- **Technologies:** React, Node.js, TailwindCSS, Tauri, Electron, TensorFlow, Flask, .NET, Linux, Unity3D, Firebase,
+MongoDB, SQL
