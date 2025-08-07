@@ -11,5 +11,5 @@ Check out my [portfolio](https://dynamic6448.github.io) for more!
 ## 💻 Tech Stack:
 
 - **Languages:** C/C++, Rust, C#, Java, Python, JavaScript/TypeScript, HTML/CSS
-- **Technologies:** React, Node.js, TailwindCSS, Tauri, Electron, TensorFlow, Flask, .NET, Linux, Unity3D, Firebase,
+- **Technologies:** React, Node.js, Express, TailwindCSS, Tauri, Electron, TensorFlow, Flask, .NET, Linux, Unity3D, Firebase,
 MongoDB, SQL
